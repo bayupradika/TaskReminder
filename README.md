@@ -7,3 +7,5 @@ Steps to use TaskReminder:
 5. Close and save your changes, and TaskReminder is ready to use.
 
 After completing the five steps above, TaskReminder will automatically launch every time you open your laptop.
+
+Demonstrasi : https://bayupradika.github.io/TaskReminder/
