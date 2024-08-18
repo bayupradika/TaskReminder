@@ -9,3 +9,4 @@ Steps to use TaskReminder:
 After completing the five steps above, TaskReminder will automatically launch every time you open your laptop.
 
 Demonstrasi : https://bayupradika.github.io/TaskReminder/
+![image](https://github.com/user-attachments/assets/18cb1818-3139-41c1-9055-db3706272862)
